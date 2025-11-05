@@ -1,5 +1,9 @@
 # Tarea Repositorio Ejercicios de Clase
-**Autor:** Óscar Fernández Díaz
+
+
+## AUTOR
+
+Óscar Fernández Díaz
 
 
 
@@ -13,6 +17,20 @@ Este repositorio contiene los siguientes ejercicios, cada ejercicio está organi
   * REPASO COMANDOS LINUX: Comandos básicos de repaso en la consola de Ubuntu. 
   * PERMISOS LINUX: Trabajar sobre atribuir permisos a usuarios, grupos y resto de miembros del sistema con chmod.
   * REDES LINUX: Configurar interfaces de red, enviar paquetes, configurar máscaras de subred...
+
+
+
+## ENLACE GITHUB
+
+Repositorio en Github: https://github.com/oscarfd81/REPOSITORIO-EJERCICIOS.git
+
+
+
+## GRÁFICO DE RAMAS (Insights-Network: Network graph)
+
+Gráfico:
+
+![image-20251105183821396](C:\Users\ferna\AppData\Roaming\Typora\typora-user-images\image-20251105183821396.png)
 
 
 
